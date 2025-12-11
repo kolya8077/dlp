@@ -6,7 +6,7 @@ import yt_dlp
 
 # Тепер url_list — список посилань
 url_list = [
-    'https://nl104.cdnsqu.com/s/FHTzPcnyEQs2IPDjv7MxuXf0FBQUFBSUFjS0VFUkZQSXdBUFFBQlFFPQ.8qrt-lYui-vTVHVSFJyu4i2OkuwECqrRWmtD2w/hdr_018/Captain.America.Civil.War.2016.BDRip.2160p.HDR.ukr.ru.sub_2160.mp4'
+''
 ]
 
 
